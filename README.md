@@ -1,4 +1,4 @@
 # Coursera-Stats-With-R
 
 
-Start to take notes in the form of questions and hope these stats basics will be useful for everyone's data science work
+Start to take notes in the form of questions because I think this is a very effective way to understand data science basics
